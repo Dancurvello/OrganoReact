@@ -30,11 +30,7 @@ const Rodape = () => {
     <section>
         <img src="/imagens/logo.png" alt="" />
     </section>
-    <section>
-        <p>
-            Desenvolvido por Daniel Curvello.
-        </p>
-    </section>
+    
 </footer>)
 }
 
