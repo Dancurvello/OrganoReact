@@ -5,14 +5,16 @@
 }
 
 .formulario form {
-    max-width: 80%;
-    background-color: #F2F2F2;
+    max-width: 60%;
+    background-color: #efefef;
     border-radius: 20px;
     padding: 36px 64px;
-    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+    box-shadow: 8px 8px 8px rgba(5, 0, 0, 0.03);
 
 }
 
 .titulo-formulario {
     margin-bottom: 40px;
+    font-size: 20px;
+    
 }
